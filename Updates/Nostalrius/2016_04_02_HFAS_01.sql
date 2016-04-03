@@ -33,7 +33,7 @@ UPDATE `creature` SET  `spawndist`='0', `spawntimesecs`='25', `position_x`='1151
 
 
 
---Fel Reaver Sentry
+-- Fel Reaver Sentry
 SET @GUID := '69269';
 SET @POINT := '0';
 
@@ -75,7 +75,7 @@ INSERT INTO `creature_movement` (`id`, `point`, `position_x`, `position_y`, `pos
 
 
 
---Fel Reaver Sentry
+-- Fel Reaver Sentry
 SET @GUID := '69270';
 SET @POINT := '0';
 
