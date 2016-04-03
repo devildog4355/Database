@@ -1,6 +1,11 @@
 
 -- Arzeth the Merciless
 SET @ENTRY := '19354';
+
+UPDATE `creature` SET `position_x`='-660.0555', `position_y`='4799.76', `position_z`='49.16517', `orientation`='0.08726646', `spawndist`='0', `MovementType`='2' WHERE `id`=@ENTRY;
+
+-- Arzeth the Merciless
+SET @ENTRY := '19354';
 SET @POINT := '0';
 
 DELETE FROM `creature_movement` WHERE `id`=(SELECT `guid` FROM `creature` WHERE `id`=@ENTRY);
@@ -17,3 +22,8 @@ INSERT INTO `creature_movement_template` (`entry`, `point`, `position_x`, `posit
 (@ENTRY, @POINT := @POINT + '1', '-617.6182', '4800.323', '38.70739', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0'),
 (@ENTRY, @POINT := @POINT + '1', '-659.4124', '4799.819', '49.09505', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0'),
 (@ENTRY, @POINT := @POINT + '1', '-659.4124', '4799.819', '49.09505', '30000', '0', '0', '0', '0', '0', '0', '0', '0', '6.091199', '0', '0');
+
+-- Arzeth the Merciless
+SET @ENTRY := '19354';
+
+UPDATE `creature_template` SET `SpeedWalk`=('2.5' / '2.5'), `SpeedRun`=('9.72222' / '7.0') WHERE `Entry`=@ENTRY;

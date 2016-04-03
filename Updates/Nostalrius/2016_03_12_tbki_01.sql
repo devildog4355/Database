@@ -1,6 +1,11 @@
 
 -- Razorsaw
 SET @ENTRY := '20798';
+
+UPDATE `creature` SET `position_x`='415.9948', `position_y`='2215.928', `position_z`='116.7331', `orientation`='2.310609', `MovementType`='2' WHERE `id`=@ENTRY;
+
+-- Razorsaw
+SET @ENTRY := '20798';
 SET @POINT := '0';
 
 DELETE FROM `creature_movement_template` WHERE `entry`=@ENTRY;
@@ -23,3 +28,9 @@ INSERT INTO `creature_movement_template` (`entry`, `point`, `position_x`, `posit
 (@ENTRY, @POINT := @POINT + '1', '454.7191', '2161.122', '118.8741', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0'),
 (@ENTRY, @POINT := @POINT + '1', '439.4698', '2203.118', '116.4050', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0'),
 (@ENTRY, @POINT := @POINT + '1', '420.8893', '2226.885', '116.4050', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0');
+
+-- Razorsaw
+SET @ENTRY := '20798';
+set @ITEM := '29590';
+
+UPDATE `creature_loot_template` SET `ChanceOrQuestChance`='100' WHERE `entry`=@ENTRY and`item`=@ITEM;

@@ -1,6 +1,11 @@
 
 -- Magister Aledis
 SET @ENTRY := '20159';
+
+UPDATE `creature` SET `position_x`='-692.6967', `position_y`='4183.942', `position_z`='57.1587', `orientation`='1.464599', `spawndist`='0', `MovementType`='2' WHERE `id`=@ENTRY;
+
+-- Magister Aledis
+SET @ENTRY := '20159';
 SET @POINT := '0';
 
 DELETE FROM `creature_movement` WHERE `id`=(SELECT `guid` FROM `creature` WHERE `id`=@ENTRY);

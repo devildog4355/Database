@@ -61,3 +61,10 @@ INSERT INTO `creature_movement` (`id`, `point`, `position_x`, `position_y`, `pos
 (@GUID, @POINT := @POINT + '1', '368.5956', '3364.738', '63.81692', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0'),
 (@GUID, @POINT := @POINT + '1', '344.4051', '3344.649', '67.40168', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0'),
 (@GUID, @POINT := @POINT + '1', '327.5585', '3321.236', '72.71063', '0', '0', '0', '0', '0', '0', '0', '0', '0', '100', '0', '0');
+
+-- Mistress of Doom
+DELETE FROM `creature` WHERE `guid` IN ('68722', '68723', '68724');
+
+UPDATE `creature` SET `position_x`='408.4745', `position_y`='3264.019', `position_z`='74.64674', `orientation`='1.301382', `spawndist`='0', `MovementType`='2' WHERE `guid`='68725';
+UPDATE `creature` SET `position_x`='384.3363', `position_y`='3257.237', `position_z`='74.62700', `orientation`='2.503842', `spawndist`='0', `MovementType`='2' WHERE `guid`='68726';
+UPDATE `creature` SET `position_x`='329.0792', `position_y`='3319.538', `position_z`='71.74088', `orientation`='1.021431', `spawndist`='0', `MovementType`='2' WHERE `guid`='68727';
