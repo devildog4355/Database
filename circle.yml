@@ -5,4 +5,4 @@ test:
     # Apply updates - only for world DB
     - find Current_Release/Updates ! -name "*characters*" -name "*.sql" -exec cat {} \; | mysql -u ubuntu circle_test
     - cat Updates/*.sql | mysql -u ubuntu circle_test
-    - cat Updates/Nostalrius/*.sql | mysql -u ubuntu circle_test
+    - for f in Updates/Nostalrius/*.sql; do echo "* Applying $f ..."; cat "$f" | mysql -u ubuntu circle_test; done
