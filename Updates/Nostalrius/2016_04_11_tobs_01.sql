@@ -1,5 +1,5 @@
 
-SET @GUIDSTART := '101475';  -- 110 creatures added / 66 creatures removed
+SET @GUIDSTART := '101683';  -- 110 creatures added / 66 creatures removed
 SET @GUID := @GUIDSTART;
 
 -- Enraged Fire Soul [-1|+0]
