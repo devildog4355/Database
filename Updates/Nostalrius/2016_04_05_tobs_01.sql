@@ -1,5 +1,5 @@
 
-SET @GUIDSTART := '101254'; -- 221 creatures
+SET @GUIDSTART := '101462'; -- 221 creatures
 SET @GUID := @GUIDSTART;
 
 -- Eclipsion Soldier [108]
