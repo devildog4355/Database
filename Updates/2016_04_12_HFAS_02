@@ -1,0 +1,159 @@
+#Hellfire Abyssal Shelf
+#Creature
+
+-- Mo'arg Peon | 93 Updates
+
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69155';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69156';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69157';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69158';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69159';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69160';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69161';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69162';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69163';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69164';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69165';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69166';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69167';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69168';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69169';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69170';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69171';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69172';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69173';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69174';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69175';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69176';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69177';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69178';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69179';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69180';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69181';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69182';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69183';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69184';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69185';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69186';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69187';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69188';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69189';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69190';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69191';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69192';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69193';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69194';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69195';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69196';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69197';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69198';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69199';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69200';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69201';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69202';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69203';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69204';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69205';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69206';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69207';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69208';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69209';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69210';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69211';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69212';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69213';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69214';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69215';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69216';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69217';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69218';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69219';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69220';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69221';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69222';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69223';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69224';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69225';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69226';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69227';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69228';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69229';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69230';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69231';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69232';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69233';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69234';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69235';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69236';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69237';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69238';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69239';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69240';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69241';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69242';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69243';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69244';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69245';
+UPDATE `creature` SET  `spawndist`='45', `spawntimesecs`='35', `MovementType`='1' WHERE `guid`='69246';
+
+
+-- Mo'arg Overseer | 2 Updates
+UPDATE `creature` SET  `spawndist`='0', `spawntimesecs`='45', `position_x`='1117.571045', `position_y`='1836.342896', `position_z`='124.199409', `orientation`='2.9', `MovementType`='2' WHERE `guid`='69154';
+UPDATE `creature` SET  `spawndist`='0', `spawntimesecs`='45', `position_x`='1085.910034', `position_y`='1750.050049', `position_z`='102.752998', `orientation`='1.6', `MovementType`='2' WHERE `guid`='69153';
+
+
+#Creature_movement
+
+
+-- Mo'arg Overseer | 2 Added
+SET @GUID := '69154';
+SET @POINT := '0';
+
+DELETE FROM `creature_movement` WHERE `id`=@GUID;
+INSERT INTO `creature_movement` (`id`, `point`, `position_x`, `position_y`, `position_z`, `waittime`, `script_id`, `textid1`, `textid2`, `textid3`, `textid4`, `textid5`, `emote`, `spell`, `orientation`, `model1`, `model2`) VALUES
+(@GUID, @POINT := @POINT + '1', '1081.471680', '1845.756348', '125.825691', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.9', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1049.655762', '1850.264404', '131.031967', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1010.262024', '1850.125488', '132.565964', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.3', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '975.414917', '1846.45450', '131.145935', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.2', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '954.953674', '1843.922607', '129.876953', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.9', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '930.126892', '1847.487305', '135.344955', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.1', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '882.833618', '1841.551392', '135.688432', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.2', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '858.907166', '1844.3699995', '136.408813', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.9', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '821.516602', '1840.076416', '135.491287', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.2', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '791.563477', '1844.500977', '139.320618', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.8', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '754.033875', '1852.856689', '140.899323', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.1', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '714.454285', '1848.325562', '140.349731', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.1', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '680.378357', '1849.843872', '135.373917', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.8', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '647.859863', '1861.280762', '130.895004', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.7', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '680.378357', '1849.843872', '135.373917', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.8', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '714.454285', '1848.325562', '140.349731', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.1', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '754.033875', '1852.856689', '140.899323', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.1', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '791.563477', '1844.500977', '139.320618', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.8', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '821.516602', '1840.076416', '135.491287', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.2', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '858.907166', '1844.3699995', '136.408813', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.9', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '882.833618', '1841.551392', '135.688432', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.2', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '930.126892', '1847.487305', '135.344955', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.1', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '954.953674', '1843.922607', '129.876953', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.9', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '975.414917', '1846.45450', '131.145935', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.2', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1010.262024', '1850.125488', '132.565964', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.3', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1049.655762', '1850.264404', '131.031967', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1081.471680', '1845.756348', '125.825691', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.9', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1117.571045', '1836.342896', '124.199409', '0', '0', '0', '0', '0', '0', '0', '0', '0', '6.1', '0', '0');
+
+
+-- Mo'arg Overseer
+SET @GUID := '69153';
+SET @POINT := '0';
+
+DELETE FROM `creature_movement` WHERE `id`=@GUID;
+INSERT INTO `creature_movement` (`id`, `point`, `position_x`, `position_y`, `position_z`, `waittime`, `script_id`, `textid1`, `textid2`, `textid3`, `textid4`, `textid5`, `emote`, `spell`, `orientation`, `model1`, `model2`) VALUES
+(@GUID, @POINT := @POINT + '1', '1070.701172', '1751.700806', '104.122665', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1.6', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1070.513306', '1769.146362', '111.080223', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1.7', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1067.801392', '1778.941284', '115.350975', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.5', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '965.296448', '1834.279297', '129.498016', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.6', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '916.348145', '1822.301270', '129.875275', '0', '0', '0', '0', '0', '0', '0', '0', '0', '3.4', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '965.296448', '1834.279297', '129.498016', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.6', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1067.801392', '1778.941284', '115.350975', '0', '0', '0', '0', '0', '0', '0', '0', '0', '2.5', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1070.513306', '1769.146362', '111.080223', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1.7', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1070.701172', '1751.700806', '104.122665', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1.6', '0', '0'),
+(@GUID, @POINT := @POINT + '1', '1085.910034', '1750.050049', '102.752998', '0', '0', '0', '0', '0', '0', '0', '0', '0', '1.6', '0', '0');
